@@ -20,8 +20,8 @@ table, th, td {
     text-align: center;
   }
   body{
-    background-color: rgb(59, 17, 99);
-    color: aqua;
+    background-color: violet;
+    color: blue;
   }
   .grid{
     display: grid;
